@@ -1,10 +1,6 @@
-![MasterHead](https://repository-images.githubusercontent.com/445083429/2a635be4-4c13-42f3-8f43-7b843e1bac46)
 <h1 align="center">Hi 👋, I'm Mazharcan Hacıosmanoğlu</h1>
 <h3 align="center">A passionate Unity & Software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Unity**
-
-- 💬 Ask me about **C#**
 
 - 📫 How to reach me **haciosmanoglumazharcan@gmail.com**
 
