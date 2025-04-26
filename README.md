@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mazharcan Hacıosmanoğlu</h1>
-<h3 align="center">A passionate Unity & Software developer from Turkey</h3>
 
 
 - 📫 How to reach me **haciosmanoglumazharcan@gmail.com**
